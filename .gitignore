@@ -9,3 +9,5 @@ build/
 .env.*.local
 .DS_Store
 .vscode/
+# Exclude CapCut and similar app data
+AppData/
